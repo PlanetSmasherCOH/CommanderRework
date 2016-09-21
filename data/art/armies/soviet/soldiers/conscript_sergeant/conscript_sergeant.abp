@@ -1,0 +1,9 @@
+--3DSMax Toolset Generated: abp_functions.ms--
+
+model =
+{
+	"..\\..\\..\\Common\\CompleteMotionTree.abp",
+	"..\\..\\sovietcommongear.abp",
+	"conscript_sergeant",
+}
+

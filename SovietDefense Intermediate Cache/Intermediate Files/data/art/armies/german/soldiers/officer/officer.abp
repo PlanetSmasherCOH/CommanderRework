@@ -1,0 +1,18 @@
+--3DSMax Toolset Generated: abp_functions.ms--
+
+model =
+{
+	"..\\..\\..\\common\\completemotiontree.abp",
+	"..\\..\\..\\common\\weapons\\pistol\\pistol",
+	"..\\..\\..\\common\\props\\medic_kit\\medic_kit",
+    
+	"..\\..\\weapons\\smg_mp40\\smg_mp40",
+	"..\\..\\weapons\\pistol_luger\\pistol_luger",
+	"..\\..\\weapons\\stielgranate\\stielgranate",
+	
+	"..\\..\\..\\common\\vehicles\\abandon_sync\\abandon_sync",
+	"..\\..\\..\\common\\vehicles\\crew\\crew\\crew",
+
+	"officer",
+}
+

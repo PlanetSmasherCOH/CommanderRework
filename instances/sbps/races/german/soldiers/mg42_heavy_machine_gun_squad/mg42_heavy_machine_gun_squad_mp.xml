@@ -1,0 +1,10 @@
+<instance override_type="merge" description="" template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
+			<float name="number_of_slots" value="-1" />
+			<list name="upgrades">
+			</list>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="15" />
+</instance>

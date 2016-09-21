@@ -1,0 +1,9 @@
+--3DSMax Toolset Generated: abp_functions.ms--
+
+model =
+{
+	"Bunker",
+	"..\\..\\..\\common\\weapons\\heavy_machine_guns\\heavy_machine_guns",
+	"..\\..\\weapons\\mg42_heavy_tripod\\mg42_heavy_tripod",
+}
+

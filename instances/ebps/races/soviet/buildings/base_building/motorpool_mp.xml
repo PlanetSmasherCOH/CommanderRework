@@ -1,0 +1,42 @@
+<instance override_type="merge" description="3rd tier vehicle building&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\spawner_ext">
+			<bool name="animated_spawning" value="False" />
+			<float name="animated_spawning_seconds" value="0" />
+			<bool name="must_be_in_supply" value="True" />
+			<float name="reinforce_radius" value="20" />
+			<list name="spawn_items">
+				<group name="spawn_item">
+					<int name="ui_position" value="11" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\m5_halftrack_squad\m5_halftrack_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="12" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\t-70m\t-70m_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="13" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\su-76m\su-76m_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="14" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\kv-1\kv-1_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+			</list>
+			<list name="bonus_xp_from_hold_list">
+			</list>
+			<list name="reinforce_requirements">
+			</list>
+			<bool name="spawn_to_hold_try_first" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="1618" />
+</instance>

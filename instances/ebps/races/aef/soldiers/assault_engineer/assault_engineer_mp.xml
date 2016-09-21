@@ -1,0 +1,23 @@
+<instance override_type="merge" description="soviet builder unit&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\cost_ext">
+			<group name="time_cost">
+				<group name="cost">
+					<float name="action" value="0" />
+					<float name="command" value="0" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="60" />
+					<float name="munition" value="0" />
+					<float name="popcap" value="0" />
+				</group>
+				<float name="time_seconds" value="5" />
+			</group>
+		</template_reference>
+		<template_reference name="exts" value="ebpextensions\population_ext">
+			<float name="medic_pop" value="0" />
+			<float name="personnel_pop" value="1" />
+			<float name="vehicle_pop" value="0" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2521" />
+</instance>

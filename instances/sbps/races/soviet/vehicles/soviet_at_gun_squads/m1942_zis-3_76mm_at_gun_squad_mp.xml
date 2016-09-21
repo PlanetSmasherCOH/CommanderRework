@@ -1,0 +1,14 @@
+<instance override_type="merge" description="larger version of AT gun&#xA;Multiplayer Clone." template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\soviet\timed_ability\su76_su85_zis3_53k_isu152_infantry_tracking_mp" />
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
+				<instance_reference name="ability" value="abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics" />
+				<instance_reference name="ability" value="abilities\soviet\timed_ability\commander_ability\76mm_ubp-354m_heat" mod="43aa338c512b481b82b19227ece3aa0a" />
+			</list>
+			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="176" />
+</instance>

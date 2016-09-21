@@ -1,0 +1,17 @@
+<instance override_type="merge" description="" template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
+			<list name="unit_list">
+				<group name="loadout_data">
+					<float name="num" value="5" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+				</group>
+			</list>
+			<float name="squad_female_chance" value="0" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
+			<float name="personnel_pop" value="3" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2619" />
+</instance>

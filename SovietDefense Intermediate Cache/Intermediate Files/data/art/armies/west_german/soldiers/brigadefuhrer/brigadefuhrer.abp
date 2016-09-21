@@ -1,0 +1,12 @@
+model =
+{
+	"..\\..\\..\\Common\\NewMotionTree.abp",
+	"..\\..\\..\\german\\weapons\\pistol_luger\\pistol_luger",
+	"..\\..\\weapons\\smg_mp44_infrared\\smg_mp44_infrared",
+	"..\\..\\weapons\\west_german_stielgranate\\west_german_stielgranate",
+	"..\\..\\weapons\\west_german_panzerfaust_100\\west_german_panzerfaust_100",
+	
+
+	-- Main Mesh
+	"brigadefuhrer",
+}

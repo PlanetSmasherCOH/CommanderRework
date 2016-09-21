@@ -1,0 +1,12 @@
+model =
+{
+	"..\\..\\..\\Common\\NewMotionTree.abp",
+	"..\\..\\weapons\\west_german_rifle_kar98\\west_german_rifle_kar98",
+	"..\\..\\weapons\\west_german_rifle_g43_sniper\\west_german_rifle_g43_sniper",
+	"..\\..\\weapons\\west_german_rifle_grenade_launcher\\west_german_rifle_grenade_launcher",
+	"..\\..\\weapons\\west_german_smg_mp40\\west_german_smg_mp40",
+	"..\\..\\weapons\\west_german_stielgranate\\west_german_stielgranate",
+	
+	-- Main Mesh
+	"panzerfusilier",
+}

@@ -1,0 +1,17 @@
+<instance override_type="merge" description="the built from the base conscript soldiers&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\conscript_molotov_cocktail_mp" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp" />
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
+				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
+				<instance_reference name="ability" value="abilities\global\custom_commander\heal_in_cover" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rg42_conscript" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_rpg6_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\conscript_spotters_always_on" mod="43aa338c512b481b82b19227ece3aa0a" />
+			</list>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="1690" />
+</instance>

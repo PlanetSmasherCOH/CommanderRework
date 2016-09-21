@@ -1,0 +1,14 @@
+model =
+{
+	"..\\..\\..\\Common\\CompleteMotionTree.abp",
+	"..\\..\\..\\common\\vehicles\\abandon_sync\\abandon_sync",
+	"..\\..\\..\\common\\vehicles\\crew\\crew\\crew",
+    
+	-- Weapons in Use
+	
+	-- Accessories
+	"..\\..\\..\\common\\props\\medic_kit\\medic_kit",
+
+	-- Main Mesh
+	"medic",
+}

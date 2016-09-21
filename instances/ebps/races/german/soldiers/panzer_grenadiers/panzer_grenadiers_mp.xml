@@ -1,0 +1,13 @@
+<instance override_type="merge" description="2nd tier german infantry unit&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\panzer_grenadier_bundled_grenade_mp" />
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
+				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
+				<instance_reference name="ability" value="abilities\global\custom_commander\heal_in_cover" />
+			</list>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="1534" />
+</instance>

@@ -1,0 +1,34 @@
+<instance description="" template="aura">
+	<group name="aura_bag">
+		<list name="actions">
+			<template_reference name="action" value="action\ui_unit_modifier_action">
+				<bool name="die_with_creator" value="True" />
+				<template_reference name="ui_info" value="tables\ui_info">
+					<locstring name="screen_name" value="99" mod="43aa338c512b481b82b19227ece3aa0a" />
+					<locstring name="help_text" value="100" mod="43aa338c512b481b82b19227ece3aa0a" />
+					<icon name="icon_name" value="Icons_abilities_ability_soviet_command" />
+					<string name="hotkey_name" value="" />
+				</template_reference>
+				<uniqueid name="id" value="1073742407" />
+			</template_reference>
+			<template_reference name="action" value="action\apply_modifiers_action">
+				<float name="duration" value="0" />
+				<bool name="permanent" value="False" />
+				<list name="modifiers">
+					<template_reference name="modifier" value="modifiers\received_damage_modifier">
+						<enum name="application_type" value="apply_to_squad" />
+						<bool name="exclusive" value="False" />
+						<string name="modifier_id" value="" />
+						<string name="target_type_name" value="" />
+						<enum name="usage_type" value="multiplication" />
+						<float name="value" value="0.9" />
+						<instance_reference name="tooltip" value="modifier_tooltip\received_damage_modifier" />
+					</template_reference>
+				</list>
+				<uniqueid name="id" value="1073742408" />
+			</template_reference>
+		</list>
+		<bool name="affects_squads" value="True" />
+	</group>
+	<uniqueid name="pbgid" value="1073741825" />
+</instance>
