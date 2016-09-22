@@ -361,6 +361,14 @@
 					<string name="undo_action_state_name" value="" />
 					<uniqueid name="id" value="1073742949" />
 				</template_reference>
+				<template_reference name="action" value="action\animator_set_state">
+					<bool name="apply_to_leader_only" value="False" />
+					<string name="do_action_state_name" value="invisible" />
+					<bool name="retrigger" value="False" />
+					<string name="state_machine_name" value="heavymachinegun_state" />
+					<string name="undo_action_state_name" value="" />
+					<uniqueid name="id" value="1073743155" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\combat_ext">
@@ -422,7 +430,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<string name="sync_target_name" value="Vehicle_Target" />
+						<string name="sync_target_name" value="HeavyMachineGun_Target" />
 						<list name="role_list">
 							<group name="role">
 								<string name="animator_bp" value="armies\german\soldiers\hmg\hmg" />
