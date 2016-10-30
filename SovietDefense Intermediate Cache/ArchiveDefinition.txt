@@ -29,6 +29,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\stuka_close_air_support.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\terror_officer_inspiration.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\dispatch\223_command_car.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\dispatch\knights_cross.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\dispatch\opel_blitz_ambulance.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\dispatch\terror_officer.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\passive_ability\ambush_camouflage_unlock.rgd
@@ -39,8 +41,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\passive_ability\pzb39_unlock.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\passive_ability\trench_unlock.rgd
-	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\knights_cross.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\stormtroopers.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\223_nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\stielhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\timed_ability\commander_ability\relief_infantry.rgd
@@ -49,6 +51,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\pillbox_retreat_point.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\always_on_ability\commissar_inspiring_presence.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\combat_engineer_salvage.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\zis6_medpack_drop.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\commander_ability\artillery_152mm.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\commander_ability\fire_artillery.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\commander_ability\forward_hq.rgd
@@ -98,6 +101,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\aura\commissar_no_retreat_no_surrender.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\aura\sherman_commander_coordinated_fire.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\aura\terror_officer_inspire.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\223_nebelhandgranate24.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\airdrop_flare.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\stielhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.rgd
@@ -142,6 +147,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\officer_squad\terror_officer_squad.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\panzer_grenadier_squad\panzer_grenadier_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\pioneer_squad\pioneer_squad_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\223\223_command_car.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\vehicles\opel_blitz_ambulance\opel_blitz_ambulance.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp.rgd
@@ -176,6 +182,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\sub_machine_gun\engineer_m3_grease_gun_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\single_fire\rifle\marksman_m1c_garand.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\grenadiere_pzb39.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\223_nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\grenade\stielhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\heavy_artillery\sector_105mm_gun.rgd
