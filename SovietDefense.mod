@@ -43,9 +43,23 @@ __________
 How to use the mod:
 1. Subscribe.
 2. Start a custom game. Mods only work in custom games!
-3. Click 'Options', for 'Tuning Pack', select 'Unused Commander Rework'.
+3. Click 'Options', for 'Tuning Pack', select 'Commander Rework'.
 4. Put one of the commanders in your loadout and use it in game!
 (The changes will only show up in the match, once you picked the commander.)
+__________
+
+German Mechanized Doctrine
+
+0CP: Sd.Kfz. 250/1
+Comes without a squad of Grenadiers. Now has an MG42 with the stats from the larger Sd.Kfz. 251/1 halftrack. Cost, health, armor, movement and veterancy copied from the Soviet M3A1. (Also available in Mechanized Assault Doctrine!)
+1CP: Sd.Kfz. 223 Command Car
+Costs 250MP/20Fu. This is a 222 with an MG42 instead of the 20mm gun; DPS is similar to the USF M20. It can throw smoke grenades as well as capture and lock down territory. The lockdown is improved with each rank of veterancy; the unit itself does not get better.
+2CP: Withdraw and Refit
+Copied from USF. Vehicles can be retreated from the battlefield to get some resources back.
+5CP: Spotting Scopes
+These are also available on the new vehicles in this commander.
+9CP: StuH 42
+This is basically a leFH 18 howitzer strapped to a StuG III. It performs similar to the Brummbär, so it's very effective against infantry blobs. Can be upgraded with an MG42 and Spotting Scope and gets a long-range artillery barrage at Vet 1.
 __________
 
 Elite Troops Doctrine
@@ -103,8 +117,8 @@ __________
 Recon Support Company
 
 0CP: Forward Observers
-1CP: M1 81mm Mortar Team
-240MP, four men, same stats as the Soviet PM-41. White Phosphorous barrage at Vet 1.
+2CP: Marksman
+320MP. Fairly survivable, but no camouflage. Good rate of fire, but doesn't get faster with Vet. Recon Flares at Vet 1, lower received accuracy at Vet 2 and 3.
 4CP: Recon Sweep
 5CP: M8 Greyhound
 Comes with armored skirts, gun from the Stuart, pintle MG from the M20. Slightly increased armor and health. Increased cost to 280/50 and population to 8.
@@ -207,6 +221,16 @@ Coming next: German Mechanized Doctrine. You're also welcome to make suggestions
 					</Children>
 					<IsExpanded>true</IsExpanded>
 					<Name>art</Name>
+				</d2p1:anyType>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnIcons">
+							<PackSize>1024</PackSize>
+							<RelativeName>data\ui</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>ui</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>

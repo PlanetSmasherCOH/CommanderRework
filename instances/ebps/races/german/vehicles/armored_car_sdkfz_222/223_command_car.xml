@@ -17,7 +17,6 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\panzer_defensive_smoke" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
-				<instance_reference name="ability" value="abilities\german\toggle_ability\wehr_vehicle_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\223_nebelhandgranate24" mod="43aa338c512b481b82b19227ece3aa0a" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\223_lockdown" mod="43aa338c512b481b82b19227ece3aa0a" />
@@ -782,7 +781,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\scout_car_sdkfz222\scoutcar_sdkfz222_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\223\223_command_car" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">

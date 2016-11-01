@@ -67,7 +67,7 @@
 		<float name="move_back_distance" value="10" />
 		<float name="range" value="30" />
 		<bool name="range_ignore" value="True" />
-		<float name="recharge_time" value="30" />
+		<float name="recharge_time" value="60" />
 		<bool name="refundable" value="False" />
 		<bool name="require_no_shot_block" value="False" />
 		<enum name="shared_timer" value="" />
@@ -79,7 +79,7 @@
 		</group>
 		<group name="speech_code_3">
 			<string name="code_1" value="mag" />
-			<string name="code_2" value="222" />
+			<string name="code_2" value="" />
 			<string name="code_3" value="" />
 		</group>
 		<enum name="squad_caster" value="one_entity" />
@@ -97,7 +97,7 @@
 		</group>
 		<group name="ui_info">
 			<locstring name="extra_text" value="217" mod="43aa338c512b481b82b19227ece3aa0a" />
-			<locstring name="help_text" value="0" />
+			<locstring name="help_text" value="331" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<string name="hotkey_name" value="" />
 			<icon name="icon_name" value="Icons_vehicles_vehicle_german_222_armored_car" />
 			<string name="overlay_name" value="" />
@@ -133,7 +133,7 @@
 				<locstring name="ui_name" value="335" mod="43aa338c512b481b82b19227ece3aa0a" />
 				<template_reference name="resource" value="tables\resource_table">
 					<float name="action" value="0" />
-					<float name="command" value="2" />
+					<float name="command" value="1" />
 					<float name="fuel" value="0" />
 					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
@@ -144,7 +144,7 @@
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
-		<int name="ui_position" value="160" />
+		<int name="ui_position" value="20" />
 		<bool name="ui_mini_map_capture" value="True" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="ui_reticule\ability_target_call_in" />

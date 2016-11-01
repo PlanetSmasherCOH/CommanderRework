@@ -106,7 +106,7 @@
 		<list name="abilities">
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_bombing_strike" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_strafing_run" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_smoke_bomb" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_smoke_bomb" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\railway_gun_artillery" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\light_support_artillery" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\sector_artillery" mod="43aa338c512b481b82b19227ece3aa0a" />
@@ -130,14 +130,13 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\heavy_at_mine_unlock" />
 			<instance_reference name="ability" value="abilities\german\always_on_ability\german_hq_pioneer_call_in" />
 			<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\elefant_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\ostruppen" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\trench_unlock" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\assault_grenadiers" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\air_dropped_medical_supplies" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\stug_iii_e" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\mechanized_assault_group" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\defensive_fortifications" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\crush_the_pocket" />
 			<instance_reference name="ability" value="abilities\german\timed_ability\commander_ability\breakthrough" />
@@ -151,7 +150,6 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\supply_break" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\sprint" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\dispatch\mechanized_grenadier_group" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_close_air_support" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_recon" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_aerial_superiority_strafing_run" />
@@ -169,6 +167,9 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\knights_cross" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\hollow_charge_barrage" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\223_command_car" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\250_halftrack" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\stuh42" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\withdraw_and_refit" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">

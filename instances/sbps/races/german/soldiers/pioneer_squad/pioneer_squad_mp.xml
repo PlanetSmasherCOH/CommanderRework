@@ -42,7 +42,7 @@
 							<int name="ui_position" value="22" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp" />
+							<instance_reference name="ebp" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 							<int name="ui_position" value="21" />
 						</group>
 						<group name="construction_item">

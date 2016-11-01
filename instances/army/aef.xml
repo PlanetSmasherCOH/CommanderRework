@@ -126,7 +126,7 @@
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_155mm" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\recon_sweep" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\dodge_wc51_dispatch" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\withdraw_and_refit" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\withdraw_and_refit" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_flamethrowers" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_smoke_barrage" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_flares" />
