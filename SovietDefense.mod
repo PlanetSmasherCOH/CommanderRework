@@ -71,8 +71,8 @@ Gewehr 43 + Interrogation for 45 munitions. Unchanged.
 400MP: Three soldiers with infrared StG44 assault rifles. Very durable. Stick grenade, smoke grenade, Panzerfaust. Passive self-heal at Vet 1, passive sprint at Vet 3.
 8CP: Hollow Charge Barrage
 Like Light Artillery Barrage, but more accurate and with better penetration and less AoE damage.
-13CP: Tiger I
-This is the 'normal' Tiger tank as seen in Lightning War, Spearhead etc., not the Tiger Ace.
+13CP: King Tiger
+It's exactly the same unit OKW has access to - only three levels of veterancy, though. Smoke dischargers also available!
 __________
 
 German Defensive Doctrine

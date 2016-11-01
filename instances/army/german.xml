@@ -112,7 +112,6 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\sector_artillery" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\stuka_fragmentation_bomb" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\mortar_halftrack" />
-			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\panzer_tactician_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\pak_43_emplacement_unlock" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\hull_down_unlock" mod="43aa338c512b481b82b19227ece3aa0a" />
@@ -170,6 +169,8 @@
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\250_halftrack" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\stuh42" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\withdraw_and_refit" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\dispatch\king_tiger_dispatch" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">

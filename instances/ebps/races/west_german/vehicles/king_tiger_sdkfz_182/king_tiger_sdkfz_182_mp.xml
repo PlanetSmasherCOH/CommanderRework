@@ -1,0 +1,14 @@
+<instance override_type="merge" description="heavy all around tank&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\battle_plans\armor_plans\spearhead_mp" />
+				<instance_reference name="ability" value="abilities\west_german\timed_ability\combat_blitz_mp" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\okw_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\panzer_defensive_smoke" />
+			</list>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="3254" />
+</instance>

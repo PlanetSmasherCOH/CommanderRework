@@ -119,11 +119,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\dispatch\223_command_car.xml</FileName>
-			<FileHash>d04bbb7f2c7a2e2d5d9fd3e16efe9b2c</FileHash>
+			<FileHash>fa2dadc97886da679a8e20e1f6c94846</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\dispatch\250_halftrack.xml</FileName>
 			<FileHash>8e4a4bf0e13c9a6e9807112572cc7424</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\dispatch\king_tiger_dispatch.xml</FileName>
+			<FileHash>a24a8bbb3ca4e8ee4d671caf5a6a15e4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\dispatch\knights_cross.xml</FileName>
@@ -170,10 +174,6 @@
 			<FileHash>800583435cdbff1a5cf14d3130e4152e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\passive_ability\tiger_tank.xml</FileName>
-			<FileHash>d2f0d398a2fb1e7d242b103bd6e0d4f6</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\commander_ability\passive_ability\trench_unlock.xml</FileName>
 			<FileHash>b4972cc133d2a36f0b1b0917cb7a9eed</FileHash>
 		</BurnInfo>
@@ -191,7 +191,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\grenades\nebelhandgranate24.xml</FileName>
-			<FileHash>8977c25bb043895a1d7a40d267364503</FileHash>
+			<FileHash>9e618156e8036c81d7b7e9c7372b9653</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\german\modal_ability\grenades\stielhandgranate24.xml</FileName>
@@ -403,7 +403,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\army\german.xml</FileName>
-			<FileHash>696dea68d1e3cfeed02ee4c4e21254b4</FileHash>
+			<FileHash>a2e1a7ec235586c3c1073fd7e2e879c3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\army\soviet.xml</FileName>
@@ -579,7 +579,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\soviet\vehicles\kv-1\kv-1_commander_mp.xml</FileName>
-			<FileHash>b61055b44b6cc2aa712d56afdbc17d44</FileHash>
+			<FileHash>e7f8682d1086ac9111765fbd7b075ec5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\soviet\vehicles\zis_6_transport\zis_6_transport_mp.xml</FileName>
@@ -588,6 +588,10 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp.xml</FileName>
 			<FileHash>a893f4ce2d77517dfcee434773b8ec49</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp.xml</FileName>
+			<FileHash>d2af972a1a91bbe8c68b754de8edb33b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_mp.xml</FileName>
@@ -863,11 +867,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\locale\english\english.ucs</FileName>
-			<FileHash>743a24034828f41b53bda2e576312185</FileHash>
+			<FileHash>184e67a2130ead3966473d1a81608c54</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\info\43aa338c512b481b82b19227ece3aa0a.info</FileName>
-			<FileHash>bbb5fde80104127d2e5a9f574cb96077</FileHash>
+			<FileHash>ed2a9153c25b537244cfa7e11f0fe7c0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\10.tga</FileName>
