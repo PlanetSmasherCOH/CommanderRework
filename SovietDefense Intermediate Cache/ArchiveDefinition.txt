@@ -46,6 +46,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\stielhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\timed_ability\commander_ability\relief_infantry.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\223_lockdown.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\mortar_counter_barrage_weapon_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\opel_blitz_ambulance_heal_area.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\pillbox_retreat_point.rgd
@@ -191,6 +192,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\heavy_machine_gun\pillbox_mg42.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\light_machine_gun\223_pintle_mg42.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\machine_gun\sub_machine_gun\terror_officer_mp40.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\pistol\terror_officer_p08.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\small_arms\single_fire\pistol\terror_officer_p08_execute.rgd
