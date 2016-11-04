@@ -5,12 +5,16 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsEnd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\always_on_ability\sherman_commander_coordinated_fire.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\sherman_commander_rocket_strafe.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\accessory_weapons\pathfinder_smoke_marker_mg.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\smoke_sherman_mortar_barrage_commander_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\commander_ability\artillery_155mm.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\assault_engineer_dispatch.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\dodge_wc51_dispatch.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\marksman_dispatch.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\paradrop_machine_gun.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\dispatch_ability\sherman_commander_dispatch.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\pioneer_salvage.rgd
@@ -112,10 +116,14 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\223_nebelhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\airdrop_flare.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\nebelhandgranate24.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\pathfinders_smoke_marker_mg.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\soviet_rpg_6_anti_tank_grenade.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\stielhandgranate24.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\stuh42_105mm.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\marksman\marksman.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\paratrooper\paratrooper_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\pathfinder\pathfinder_recon_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m4a3_sherman\m4a3_76mm_sherman_commander.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.rgd
@@ -152,6 +160,10 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\marksman\marksman.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\team_weapons\m2hb_50cal_hmg_squad\m2hb_50cal_hmg_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_commander_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\vehicles\planes\p47_rocket_strafe.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\grenadier_squad\grenadier_squad_mp.rgd
@@ -174,6 +186,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\su-85\su-85_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\t_34_squad\t_34_76_squad_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\vehicles\zis_6_transport_truck\zis_6_transport_truck_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\grenades\pathfinders_smoke_marker_mg.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m1c_garand.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\anti_tank_weapon\grenadiere_pzb39.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\german\grenades\nebelhandgranate24.rgd
@@ -192,9 +205,11 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\dp28_conscript.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\nkvd_rifle_package.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\tank_gun\sherman_m1_76mm.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\grenade\pathfinders_smoke_marker_mg.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\heavy_artillery\p47_rocket_strafe.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\sub_machine_gun\engineer_m3_grease_gun_mp.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\single_fire\rifle\m1c_garand_rifle_pathfinder.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\single_fire\rifle\marksman_m1c_garand.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\grenadiere_pzb39.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\ballistic_weapon\tank_gun\stuh42_105mm.rgd
@@ -218,6 +233,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\dshk38_mgnest.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\single_fire\pistol\m1895_commissar.rgd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\single_fire\rifle\svt_nkvd.rgd
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\small_arms\machine_gun\light_machine_gun\sdkfz_250_mg42.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"
 	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
@@ -229,7 +245,7 @@ TOCStart name="info" alias="info" path="" relativeroot="info"
 		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\info\43aa338c512b481b82b19227ece3aa0a.info
-	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\info\10.tga
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\info\12.tga
 TOCEnd
 TOCStart name="data" alias="data" path="" relativeroot="data"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
@@ -242,7 +258,7 @@ TOCStart name="data" alias="data" path="" relativeroot="data"
 		Override wildcard=".*\.(smf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
 		Override wildcard=".*\.(bsc)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
 	FileSettingsEnd
-	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\data\art\armies\aef\soldiers\lieutenant\lieutenant.abp
+	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\data\art\armies\aef\soldiers\pathfinder\pathfinder.abp
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\data\art\armies\aef\vehicles\m4a3_sherman_76mm\m4a3_sherman_76mm.abp
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\data\art\armies\aef\vehicles\m8_greyhound\m8_greyhound.abp
 	E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\data\art\armies\german\soldiers\medic\medic.abp

@@ -1,0 +1,52 @@
+<instance override_type="merge" description="archetype infantry unit&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\paradrop_ext">
+			<float name="decoy_priority_increase" value="0" />
+			<float name="drop_speed" value="6" />
+			<float name="land_seconds" value="4" />
+			<bool name="make_dead_on_drop" value="False" />
+			<bool name="reserve_sparse_grid_entry" value="True" />
+			<list name="ground_actions">
+				<template_reference name="action" value="action\change_target_action">
+					<list name="actions">
+						<template_reference name="action" value="action\requirement_action">
+							<bool name="check_self" value="False" />
+							<bool name="global_fire_and_forget_on_success" value="False" />
+							<bool name="instant_requirement_check" value="False" />
+							<bool name="kill_action_on_failed_requirements" value="False" />
+							<bool name="no_retrigger" value="False" />
+							<bool name="validate_all_sub_actions" value="True" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_squad_upgrade">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<bool name="include_queued" value="False" />
+									<bool name="is_present" value="False" />
+									<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\ability_lock_out_paratroopers_landed" />
+								</template_reference>
+							</list>
+							<list name="action_table">
+								<template_reference name="action" value="action\upgrade_add">
+									<bool name="apply_to_entities_in_squad" value="False" />
+									<bool name="trigger_publish_event" value="False" />
+									<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\ability_lock_out_paratroopers_landed" />
+									<uniqueid name="id" value="1073743334" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073743335" />
+							<bool name="fire_and_forget_non_global" value="False" />
+							<template_reference name="ui_help_text" value="tables\help_text_phrase">
+								<int name="phrase_order" value="0" />
+								<locstring name="phrase" value="0" />
+							</template_reference>
+						</template_reference>
+					</list>
+					<enum name="change_target_type" value="squad" />
+					<uniqueid name="id" value="1073743337" />
+				</template_reference>
+			</list>
+			<float name="sight_start_height" value="30" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2525" />
+</instance>

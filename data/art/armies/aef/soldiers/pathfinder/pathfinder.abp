@@ -1,0 +1,15 @@
+model =
+{
+	"..\\..\\..\\Common\\NewMotionTree.abp",
+	"..\\..\\..\\common\\engineer.abp",
+
+	--"..\\..\\aefcommongear.abp",
+	"..\\..\\weapons\\rifle_m1_carbine\\rifle_m1_carbine",
+	"..\\..\\weapons\\rifle_m1_garand_scope\\rifle_m1_garand_scope",
+	"..\\..\\..\\soviet\\weapons\\grenade_rg42\\grenade_rg42",
+	
+	--Main Mesh
+	"pathfinder",
+	
+}
+

@@ -1,0 +1,56 @@
+<instance override_type="merge" description="larger version of AT gun&#xA;Multiplayer Clone." template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
+			<group name="time_cost_percentage">
+				<float name="cost_percentage" value="0.5" />
+				<float name="time_percentage" value="1" />
+			</group>
+			<group name="ui_info">
+				<locstring name="extra_text" value="0" />
+				<locstring name="help_text" value="11071942" />
+				<string name="hotkey_name" value="Reinforce" />
+				<icon name="icon_name" value="Icons_odds_reinforce" />
+				<string name="overlay_name" value="" />
+				<bool name="reveal_for_decryption" value="False" />
+				<locstring name="screen_name" value="11071924" />
+			</group>
+			<list name="paradrop_requirements">
+				<template_reference name="required" value="requirements\required_near_entity">
+					<enum name="alliance_requirement" value="ally" />
+					<float name="radius_requirement" value="35" />
+					<instance_reference name="entity_pbg" value="" />
+					<enum name="reason" value="usage_and_display" />
+					<locstring name="ui_name" value="0" />
+					<list name="near_entity_requirement">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="airborne_reinforcement" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="False" />
+						</template_reference>
+						<template_reference name="required" value="requirements\required_ownership">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="ownership_type" value="ally" />
+						</template_reference>
+						<template_reference name="required" value="requirements\required_constructionstate">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<bool name="do_construction_completion_check" value="True" />
+						</template_reference>
+					</list>
+				</template_reference>
+				<template_reference name="required" value="requirements\required_entity">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="0" />
+					<instance_reference name="entity_blueprint_name" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+					<enum name="entity_type" value="" />
+				</template_reference>
+			</list>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2637" />
+</instance>

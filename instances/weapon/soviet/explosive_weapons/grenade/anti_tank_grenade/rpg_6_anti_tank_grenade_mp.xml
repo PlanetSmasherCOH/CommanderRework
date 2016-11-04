@@ -386,7 +386,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\soviet_rpg_43_anti_tank_grenade_mp" />
+			<instance_reference name="projectile" value="ebps\projectile\soviet_rpg_6_anti_tank_grenade" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</group>
 		<group name="range">
 			<float name="max" value="20" />

@@ -104,8 +104,8 @@
 			</template_reference>
 		</list>
 		<list name="abilities">
-			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrop_machine_gun" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrop_machine_gun" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\aef_hq_engineer_call_in" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paratroopers_paradrop" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\priest_dispatch" />
@@ -120,7 +120,7 @@
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\time_on_target_artillery" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\p47_rocket_attack" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\riflemen_defensive_buildings" />
-			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch" />
+			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\forward_observers_unlock_2" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\greyhound_recon_dispatch" />
 			<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\artillery_155mm" />
@@ -235,7 +235,7 @@
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp" />
-						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" />
+						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 					</list>
 				</group>
 				<group name="unlocking_upgrade_info">
@@ -246,7 +246,7 @@
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp" />
-						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" />
+						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 					</list>
 				</group>
 				<group name="unlocking_upgrade_info">
@@ -266,7 +266,7 @@
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp" />
 						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp" />
-						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" />
+						<instance_reference name="upgraded_squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 					</list>
 				</group>
 			</list>

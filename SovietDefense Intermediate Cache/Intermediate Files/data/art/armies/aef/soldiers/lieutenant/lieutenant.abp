@@ -7,9 +7,6 @@ model =
 	"..\\..\\weapons\\rifle_m1_garand_scope\\rifle_m1_garand_scope",
 	"..\\..\\weapons\\grenade_mk2_pineapple\\grenade_mk2_pineapple",
 	
-	"..\\..\\..\\german\\weapons\\rifle_g43_sniper\\rifle_g43_sniper",
-	"..\\..\\..\\german\\weapons\\rifle_g43_sniper_nis\\rifle_g43_sniper_nis",
-	
 	"..\\..\\..\\Common\\weapons\\mine\\mine",
 	
 	

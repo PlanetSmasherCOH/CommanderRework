@@ -732,7 +732,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
 			<float name="capture_distance" value="4" />
 			<float name="capture_rate_multiplier" value="1" />
-			<float name="revert_rate_multiplier" value="4" />
+			<float name="revert_rate_multiplier" value="1" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1073741831" />

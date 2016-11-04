@@ -11,7 +11,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -41,20 +41,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -68,7 +68,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -98,20 +98,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -125,7 +125,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -155,20 +155,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -182,7 +182,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -212,20 +212,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -239,7 +239,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -269,20 +269,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
@@ -296,7 +296,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="352" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="S" />
-						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_e" />
+						<icon name="icon_name" value="Icons_vehicles_vehicle_german_stug_iii_g" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -326,20 +326,20 @@
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="37" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_e_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_vehicle_german_stug_iii_g_w_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_e_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_vehicle_german_stug_iii_g_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
-						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_e_symbol" />
+						<icon name="symbol_icon_name" value="Icons_symbols_vehicle_german_stug_iii_g_symbol" />
 						<bool name="speaker_highest_priority" value="False" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />

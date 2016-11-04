@@ -7,14 +7,14 @@
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
-				<float name="max" value="0.125" />
-				<float name="min" value="0.125" />
+				<float name="max" value="1" />
+				<float name="min" value="1" />
 			</group>
 			<float name="post_firing_aim_time" value="4" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.125" />
-				<float name="min" value="0.125" />
+				<float name="max" value="1" />
+				<float name="min" value="1" />
 			</group>
 			<group name="aim_time_multiplier">
 				<float name="near" value="1" />
@@ -48,7 +48,7 @@
 			<group name="damage">
 				<float name="far" value="0.05" />
 				<float name="near" value="1" />
-				<float name="mid" value="0.35" />
+				<float name="mid" value="0.25" />
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
@@ -57,7 +57,7 @@
 			</group>
 			<group name="distance">
 				<float name="far" value="6" />
-				<float name="near" value="2" />
+				<float name="near" value="1.5" />
 				<float name="mid" value="4" />
 			</group>
 			<bool name="has_friendly_fire" value="True" />
@@ -117,7 +117,7 @@
 			<bool name="ignore_relations" value="False" />
 			<template_reference name="wants_prone_firing_option" value="options\none">
 			</template_reference>
-			<enum name="attack_ground_type" value="outside_hold_only" />
+			<enum name="attack_ground_type" value="anywhere" />
 			<bool name="non_moving_setup_requires_facing" value="False" />
 		</group>
 		<group name="burst">
@@ -373,7 +373,7 @@
 			<instance_reference name="projectile" value="ebps\projectile\stuh42_105mm" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</group>
 		<group name="range">
-			<float name="max" value="40" />
+			<float name="max" value="60" />
 			<float name="min" value="0" />
 			<group name="distance">
 				<float name="near" value="-1" />
@@ -383,8 +383,8 @@
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="8" />
-				<float name="min" value="8" />
+				<float name="max" value="7" />
+				<float name="min" value="7" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />

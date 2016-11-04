@@ -538,7 +538,7 @@
 								<float name="z" value="-1.76" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\small_arms\machine_gun\light_machine_gun\sdkfz_251_mg42_mp" />
+							<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_mg42_vehicle_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />

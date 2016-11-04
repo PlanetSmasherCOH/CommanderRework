@@ -113,7 +113,7 @@
 					<template_reference name="ui_info" value="tables\ui_info">
 						<locstring name="screen_name" value="337" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<locstring name="help_text" value="11048682" />
-						<icon name="icon_name" value="Icons_abilities_ability_soviet_steady_driving" />
+						<icon name="icon_name" value="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff" />
 						<string name="hotkey_name" value="" />
 					</template_reference>
 					<uniqueid name="id" value="1073743255" />
