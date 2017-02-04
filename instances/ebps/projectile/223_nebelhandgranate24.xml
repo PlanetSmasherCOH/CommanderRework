@@ -236,7 +236,7 @@
 				<enum name="firing_angle_type" value="low_angle" />
 				<bool name="use_homing_when_no_blocker" value="True" />
 				<float name="non_collide_start_angle" value="10" />
-				<float name="non_collide_end_angle" value="89" />
+				<float name="non_collide_end_angle" value="45" />
 			</group>
 			<float name="building_hit_fx_delay" value="0" />
 			<bool name="collision_building_wall_panel_ignore" value="False" />
@@ -247,11 +247,11 @@
 			<float name="deathtimer" value="10" />
 			<float name="delay_detonate_time" value="0" />
 			<bool name="delay_detonate_ui_enabled" value="False" />
-			<string name="launcher_marker" value="fx_top_hatch" />
+			<string name="launcher_marker" value="marker_main_fire" />
 			<float name="life_time_while_alive" value="0" />
 			<float name="rotation_speed" value="10000" />
 			<bool name="spawn_collision_fx" value="True" />
-			<float name="speed" value="9" />
+			<float name="speed" value="12" />
 			<bool name="collision_land_ignore" value="False" />
 		</template_reference>
 	</list>

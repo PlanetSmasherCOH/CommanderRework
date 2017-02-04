@@ -5,7 +5,11 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\pathfinder_plant_beacon" />
+				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinders_camouflage" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\accessory_weapons\pathfinders_snipe" mod="43aa338c512b481b82b19227ece3aa0a" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\accessory_weapons\pathfinder_smoke_marker_mg" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\accessory_weapons\pathfinder_smoke_marker_mortar" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\accessory_weapons\pathfinder_smoke_marker_atg" mod="43aa338c512b481b82b19227ece3aa0a" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
@@ -187,7 +191,22 @@
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_population_ext">
-			<float name="personnel_pop" value="0" />
+			<float name="personnel_pop" value="4" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
+			<list name="unit_list">
+				<group name="loadout_data">
+					<float name="num" value="5" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\pathfinder\pathfinder_recon_mp" />
+				</group>
+			</list>
+			<float name="squad_female_chance" value="0" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
+			<list name="actions">
+			</list>
+			<list name="squad_entity_actions">
+			</list>
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="2629" />

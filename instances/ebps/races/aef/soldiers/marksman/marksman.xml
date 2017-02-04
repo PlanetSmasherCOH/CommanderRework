@@ -62,7 +62,7 @@
 			</list>
 			<float name="armor" value="1" />
 			<float name="rear_armor" value="1" />
-			<float name="target_size" value="1" />
+			<float name="target_size" value="1.15" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
 				<group name="critical_group">
@@ -395,7 +395,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\single_fire\rifle\marksman_m1c_garand" mod="43aa338c512b481b82b19227ece3aa0a" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\single_fire\rifle\springfield_sniper_rifle_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />

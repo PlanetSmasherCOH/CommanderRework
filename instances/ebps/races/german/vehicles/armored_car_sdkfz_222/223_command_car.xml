@@ -18,8 +18,8 @@
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\panzer_defensive_smoke" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\223_nebelhandgranate24" mod="43aa338c512b481b82b19227ece3aa0a" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\223_lockdown" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\223_nebelhandgranate24" mod="43aa338c512b481b82b19227ece3aa0a" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -519,8 +519,8 @@
 							</group>
 							<float name="length" value="0" />
 							<group name="origin">
-								<float name="x" value="0.05" />
-								<float name="y" value="3" />
+								<float name="x" value="0" />
+								<float name="y" value="4.3" />
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />

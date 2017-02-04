@@ -1,15 +1,21 @@
 <report>
   <scripts>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off.as" mod="1478224196212" size="352" optimizedsize="319">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IRepeaterClient)" mod="1451275290000" size="1149" optimizedsize="321">
       <def id="mx.core:IRepeaterClient" />
       <pre id="Object" />
       <dep id="AS3" />
     </script>
-    <script name="E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\ModIcons_43aa338c512b481b82b19227ece3aa0a.mxml" mod="1478194729071" size="441" optimizedsize="420">
+    <script name="E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\ModIcons_43aa338c512b481b82b19227ece3aa0a.mxml" mod="1478229508550" size="557" optimizedsize="533">
       <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a" />
       <pre id="flash.display:MovieClip" />
       <dep id="AS3" />
       <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexAsset)" mod="1451275290000" size="275" optimizedsize="98">
       <def id="mx.core:IFlexAsset" />

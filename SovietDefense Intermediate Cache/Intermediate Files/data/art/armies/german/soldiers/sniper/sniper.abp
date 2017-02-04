@@ -1,0 +1,14 @@
+model =
+{
+	"..\\..\\..\\Common\\CompleteMotionTree.abp",
+    
+	-- Weapons in Use
+	"..\\..\\weapons\\rifle_g43_sniper\\rifle_g43_sniper",
+	"..\\..\\weapons\\rifle_g43_sniper_nis\\rifle_g43_sniper_nis",
+	"..\\..\\weapons\\rifle_kar98\\rifle_kar98",
+
+	-- Accessories
+
+	-- Main Mesh
+	"sniper",
+}

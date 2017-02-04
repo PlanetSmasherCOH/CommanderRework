@@ -47,6 +47,10 @@
 			</list>
 			<float name="sight_start_height" value="30" />
 		</template_reference>
+		<template_reference name="exts" value="ebpextensions\ability_ext">
+			<list name="abilities">
+			</list>
+		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="2525" />
 </instance>
