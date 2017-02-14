@@ -155,7 +155,7 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11068286" />
+			<locstring name="extra_text" value="397" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<locstring name="help_text" value="11054767" />
 			<string name="hotkey_name" value="" />
 			<icon name="icon_name" value="Icons_units_unit_aef_paratroopers" />

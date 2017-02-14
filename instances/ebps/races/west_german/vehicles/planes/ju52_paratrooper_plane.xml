@@ -1,0 +1,75 @@
+<instance override_type="merge" description="" template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\flight_ext">
+			<float name="crash_fall_cap" value="60" />
+			<float name="crash_fall_rate" value="40" />
+			<float name="crash_turn_rate_cap" value="10" />
+			<instance_reference name="crash_weapon_name" value="weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp" />
+			<float name="distance_to_dive" value="1" />
+			<float name="est_seconds_in_future" value="3" />
+			<float name="flight_max_turning_degree" value="10" />
+			<float name="crash_max_turn_accel_var" value="20" />
+			<float name="crash_min_turn_accel_var" value="10" />
+			<float name="lowest_height_above_buildings" value="4" />
+			<float name="preferred_height_approach" value="60" />
+			<float name="preferred_height_dive" value="30" />
+			<float name="preferred_height_exit" value="35" />
+			<float name="speed" value="175" />
+			<float name="lowest_height_above_ground" value="8" />
+			<group name="actions">
+				<list name="attack_dive_actions">
+					<template_reference name="action" value="action\timed_action">
+						<float name="duration" value="10" />
+						<bool name="fire_and_forget" value="True" />
+						<list name="subactions">
+							<template_reference name="action" value="action\paradrop_action">
+								<float name="drop_drift" value="30" />
+								<float name="drop_height" value="30" />
+								<float name="drop_zone_centre_scatter" value="0" />
+								<instance_reference name="entity_to_spawn" value="" />
+								<float name="max_squad_entity_count" value="0" />
+								<instance_reference name="squad_to_spawn" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_squad_mp" />
+								<int name="number_of_entities_to_spawn" value="1" />
+								<float name="entity_scatter" value="1" />
+								<float name="entity_height_scatter" value="15" />
+								<uniqueid name="id" value="1073743733" />
+								<enum name="paradrop_drift_type" value="wind_dir" />
+								<template_reference name="scatter_type_option" value="options\action\paradrop_action\scatter_type_line">
+									<float name="length" value="15" />
+								</template_reference>
+								<float name="group_landing_scatter_radius" value="5" />
+								<group name="group_landing_scatter_addition">
+									<instance_reference name="blizzard_active_player_upgrade" value="upgrade\blizzard_active" />
+									<float name="additional_scatter_during_blizzard" value="5" />
+									<float name="additional_scatter_in_fog_of_war" value="3" />
+									<float name="additional_scatter_near_entity" value="-2" />
+									<float name="additional_scatter_entity_radius" value="3" />
+									<list name="near_entities">
+									</list>
+								</group>
+								<template_reference name="ui_help_text" value="tables\help_text_phrase">
+									<int name="phrase_order" value="0" />
+									<locstring name="phrase" value="0" />
+								</template_reference>
+							</template_reference>
+						</list>
+						<uniqueid name="id" value="1073743734" />
+					</template_reference>
+				</list>
+				<list name="to_attack_position_actions">
+				</list>
+				<list name="attack_climb_actions">
+				</list>
+				<list name="loiter_circling_actions">
+				</list>
+			</group>
+			<template_reference name="landing_option" value="options\none">
+			</template_reference>
+			<bool name="ascend_to_avoid_ground_collision" value="True" />
+			<bool name="flight_enable_realistic_banked_turns" value="False" />
+			<template_reference name="aircraft_collision_option" value="options\none">
+			</template_reference>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="15566" />
+</instance>

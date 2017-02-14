@@ -1,0 +1,18 @@
+<instance override_type="merge" description="2nd tier german infantry unit&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\cost_ext">
+			<group name="time_cost">
+				<group name="cost">
+					<float name="action" value="0" />
+					<float name="command" value="0" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="100" />
+					<float name="munition" value="0" />
+					<float name="popcap" value="0" />
+				</group>
+				<float name="time_seconds" value="10" />
+			</group>
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2575" />
+</instance>

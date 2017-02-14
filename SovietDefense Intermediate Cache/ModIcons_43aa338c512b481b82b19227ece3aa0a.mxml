@@ -2,6 +2,12 @@
 <display:MovieClip xmlns:fx='http://ns.adobe.com/mxml/2009' xmlns:display='flash.display.*'>
 	<fx:Script>
 		<![CDATA[
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/luftwaffe_ground_troops_icon.png')]
+		public static var luftwaffe_ground_troops_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/luftwaffe_ground_troops_symbol.png')]
+		public static var luftwaffe_ground_troops_symbol:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/ot34_icon.png')]
+		public static var ot34_icon:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/pathfinders_camouflage_off.png')]
 		public static var pathfinders_camouflage_off:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/sdkfz_250_speedbuff.png')]

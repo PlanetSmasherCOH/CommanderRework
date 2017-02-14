@@ -106,14 +106,13 @@
 		<list name="abilities">
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\jagdtiger" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\wg_hq_pioneer_call_in" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\panzerfusiliers_dispatch" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\okw_stuka_aerial_superiority_recon" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\terror_officer" />
 			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\valiant_assault" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\airborne_assault" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\assault_artillery" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\radio_silence" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\infiltration_tactics_unlock" />
@@ -138,6 +137,8 @@
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\king_tiger_dispatch" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock_okw" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\jagdpanzer_hetzer_dispatch" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\luftwaffe_ground_troops" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\kanonenvogel_strafe" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">

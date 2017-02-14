@@ -71,7 +71,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\aef\modal_ability\dispatch_ability\paratroopers_paradrop.xml</FileName>
-			<FileHash>49b52bdfbc703a4da51d5e752ca7bbe4</FileHash>
+			<FileHash>a2ffd122143a2f172f1168e0c477c41b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\aef\modal_ability\dispatch_ability\pathfinders_dispatch.xml</FileName>
@@ -354,6 +354,10 @@
 			<FileHash>9bfa16c81f22770d1ed3d2bfad33345b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\soviet\modal_ability\dispatch\ot34.xml</FileName>
+			<FileHash>bdee20d5c6e7aa124010bc5c7e9977a1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\soviet\modal_ability\dispatch\zis6.xml</FileName>
 			<FileHash>957b20f123596b2f96267c13167a16b1</FileHash>
 		</BurnInfo>
@@ -450,6 +454,22 @@
 			<FileHash>5a4689eb688bebe36969d6867650baa7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\west_german\modal_ability\commander_ability\kanonenvogel_strafe.xml</FileName>
+			<FileHash>0cb948acf5d0320dae6188f8a66a77e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications.xml</FileName>
+			<FileHash>42802e50bad6efd830d17642b869dfbc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\west_german\modal_ability\commander_ability\passive_ability\luftwaffe_ground_troops.xml</FileName>
+			<FileHash>616a399d1214a1455554f070a895fa8f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\west_german\modal_ability\dispatch_ability\fallschirmjaeger.xml</FileName>
+			<FileHash>753f94f4eb051ae656e5577bd6d4fd6c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\abilities\west_german\modal_ability\dispatch_ability\jagdpanzer_hetzer_dispatch.xml</FileName>
 			<FileHash>6644e3ea28890e436c9400b7a22af363</FileHash>
 		</BurnInfo>
@@ -463,11 +483,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\army\soviet.xml</FileName>
-			<FileHash>29cce2fad94352e65add4ca2fee3943c</FileHash>
+			<FileHash>2ce716b54e7f48e8564a02a0f8a84315</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\army\west_german.xml</FileName>
-			<FileHash>650f9993a53220156dcc1d6c6bfbf1dc</FileHash>
+			<FileHash>4e12e3ec6cb0c4c38880a6175362e6a6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\aura\commissar_for_the_motherland.xml</FileName>
@@ -502,6 +522,10 @@
 			<FileHash>6a71b925c40251d5661cd9e4afc15151</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\projectile\flak_shell_20mm_mp.xml</FileName>
+			<FileHash>62a6e6d402f89b63e7cf73c2b87c5880</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\projectile\hetzer_75mm_projectile_mp.xml</FileName>
 			<FileHash>57c94733b891a9d9ba44aae1c6ed42e5</FileHash>
 		</BurnInfo>
@@ -512,6 +536,10 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\projectile\nebelhandgranate24.xml</FileName>
 			<FileHash>1e06627a35cefcddce730d9d517824c9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\projectile\ot34_ato42.xml</FileName>
+			<FileHash>d686a703f11bfa7783b54e68a672e360</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\projectile\pathfinders_smoke_marker_atg.xml</FileName>
@@ -686,6 +714,14 @@
 			<FileHash>57b36926e1eda9534ac83b72a06b1fd6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\soviet\vehicles\t_34\ot34.xml</FileName>
+			<FileHash>257071722258b59059fe4a305acd4b91</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\soviet\vehicles\t_34\ot34_fx_helper.xml</FileName>
+			<FileHash>c87c4e639bc142fd77ee467f05add53f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\soviet\vehicles\zis_6_transport\zis_6_transport_mp.xml</FileName>
 			<FileHash>6de1015e832ec2715f2f954ba984426f</FileHash>
 		</BurnInfo>
@@ -694,24 +730,36 @@
 			<FileHash>50d66a27d7029dbfde6fa2ffc75914a9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\buildings\defensive_structures\flak_emplacement.xml</FileName>
+			<FileHash>a1d72b5dd9d9568a8cb3741d677e228e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp.xml</FileName>
 			<FileHash>a893f4ce2d77517dfcee434773b8ec49</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\soldiers\fallschirmjager\fallschirmjager_mp.xml</FileName>
+			<FileHash>a8f79145967cd18daff21481cf86b85b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\soldiers\luftwaffe_ground_troops\luftwaffe_ground_troops.xml</FileName>
-			<FileHash>9527f0ca5cc0ad01260b0255b0c88ef5</FileHash>
+			<FileHash>544a02e68d1562c954fbc2ea5fde7022</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\hetzer\jagdpanzer_hetzer.xml</FileName>
 			<FileHash>37da2cafa861c9a193ff6862e0cfd71d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\hetzer\tank_gun_fx_helper.xml</FileName>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\hetzer\jagdpanzer_hetzer_fx_helper.xml</FileName>
 			<FileHash>d44312a08afb95d0ad2122b2e2a9aa7c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp.xml</FileName>
 			<FileHash>d2af972a1a91bbe8c68b754de8edb33b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\ebps\races\west_german\vehicles\planes\ju52_paratrooper_plane.xml</FileName>
+			<FileHash>66cf61436bfdf0ffe9c39b52ff3b1015</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_squad_mp.xml</FileName>
@@ -822,6 +870,10 @@
 			<FileHash>bd40f27c0fe5d91c58cd4aaeba0953c1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\soviet\vehicles\t_34_squad\ot34.xml</FileName>
+			<FileHash>08f0d271fc807bc9cde3068376a38240</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\soviet\vehicles\t_34_squad\t_34_76_squad_mp.xml</FileName>
 			<FileHash>0884c1cca6dde94220161e3e9ee37604</FileHash>
 		</BurnInfo>
@@ -831,7 +883,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\west_german\soldiers\luftwaffe_ground_troops\luftwaffe_ground_troops.xml</FileName>
-			<FileHash>6253f45141d3b665ba667cd14879e48e</FileHash>
+			<FileHash>17de4e7d1fb53e2dd3783afca5161ada</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\west_german\team_weapons\flak_emplacement\flak_emplacement.xml</FileName>
+			<FileHash>fee0865975c8875d3af5607865c94c24</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\sbps\races\west_german\vehicles\hetzer_squad\jagdpanzer_hetzer.xml</FileName>
@@ -874,6 +930,10 @@
 			<FileHash>d9e433c73dca7bb72a93c40b6e227af3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\slot_item\soviet\flamethrowers\ot34_ato42.xml</FileName>
+			<FileHash>9aebf941d2e012d322dc9eddcbfd4573</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\slot_item\soviet\grenades\rpg_6_anti_tank_grenade_mp.xml</FileName>
 			<FileHash>342bea514cba69e423fb436a63dc72ba</FileHash>
 		</BurnInfo>
@@ -887,7 +947,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\upgrade\german\items\grenadiere_pzb39.xml</FileName>
-			<FileHash>6f157c87322aebc3d3de6b4ff9c71478</FileHash>
+			<FileHash>e980620444f892c0fc4a2ee68f9cb226</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\upgrade\german\items\pillbox_medical_supplies.xml</FileName>
@@ -928,6 +988,14 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\upgrade\west_german\items\jagdpanzer_hetzer_spotter.xml</FileName>
 			<FileHash>3a979638c0e5315fac5c976c9e2a90dd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\upgrade\west_german\items\luftwaffe_minesweeper.xml</FileName>
+			<FileHash>1c3724e6227a6b6740f7712ea0a42f65</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\upgrade\west_german\items\luftwaffe_pzb39.xml</FileName>
+			<FileHash>d5ffe24a381b73e132c017bc43ef73fe</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\aef\ballistic_weapon\tank_gun\sherman_m1_76mm.xml</FileName>
@@ -1062,6 +1130,10 @@
 			<FileHash>d800e20ff78e906c7426d5834b58f1a5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\soviet\flame_throwers\ot34_ato42.xml</FileName>
+			<FileHash>01062a1d26bc5eec5b4ce27871bd7920</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\dshk38_mgnest.xml</FileName>
 			<FileHash>5bf6222200012c8d6865b932153b2282</FileHash>
 		</BurnInfo>
@@ -1075,7 +1147,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\west_german\ballistic_weapon\tank_gun\hetzer_pak_39_75mm_mp.xml</FileName>
-			<FileHash>35549fa0c6103820d81d568b0e3515ea</FileHash>
+			<FileHash>723f66cb973b34cdf9b33cf865a7ae77</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\sdkfz_250_mg42.xml</FileName>
@@ -1086,8 +1158,12 @@
 			<FileHash>270a067f43c7d77a9e9e761ed1908094</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\instances\weapon\west_german\small_arms\tank_gun\flak_emplacement_20mm.xml</FileName>
+			<FileHash>2cf6d3011d820a0b3f61d86e801a9adc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\locale\english\english.ucs</FileName>
-			<FileHash>7211fcd160f9a030e803b907e5856c00</FileHash>
+			<FileHash>0f1017e3ba87281890d1e249b4ac8951</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\Intermediate Files\info\43aa338c512b481b82b19227ece3aa0a.info</FileName>
@@ -1148,6 +1224,18 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\data\art\armies\west_german\vehicles\hetzer\hetzer.abp</FileName>
 			<FileHash>89fa65604c8ed990753557c848601e35</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\data\ui\luftwaffe_ground_troops_icon.png</FileName>
+			<FileHash>9c0ccdc0a478103efb4251b8d3247de9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\data\ui\luftwaffe_ground_troops_symbol.png</FileName>
+			<FileHash>9b18e700358e2fdaa815fe5456f70fc2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\data\ui\ot34_icon.png</FileName>
+			<FileHash>4bc4926af6be340b4b4e1ee4297d9339</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\SovietDefense\data\ui\pathfinders_camouflage_off.png</FileName>

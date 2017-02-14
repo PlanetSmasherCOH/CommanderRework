@@ -11,7 +11,7 @@
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="394" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<string name="hotkey_name" value="V" />
-						<icon name="icon_name" value="Icons_units_unit_west_german_volksgrenadiers" />
+						<icon name="icon_name" value="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_icon" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
@@ -29,25 +29,25 @@
 							<string name="code_3" value="" />
 						</group>
 						<group name="speech_code_2">
-							<string name="code_1" value="in" />
-							<string name="code_2" value="" />
+							<string name="code_1" value="hg" />
+							<string name="code_2" value="in" />
 							<string name="code_3" value="" />
 						</group>
 						<group name="speech_code_3">
-							<string name="code_1" value="inf" />
-							<string name="code_2" value="vlk" />
+							<string name="code_1" value="hgd" />
+							<string name="code_2" value="inf" />
 							<string name="code_3" value="" />
 						</group>
 						<bool name="tacmap_team_only" value="False" />
 						<int name="ui_priority" value="47" />
 						<bool name="use_random_entity_speaker" value="False" />
-						<icon name="portrait_name_winter" value="Icons_portraits_unit_west_german_volksgrenadier_w_portrait" />
+						<icon name="portrait_name_winter" value="Icons_portraits_unit_german_sniper_s_portrait" />
 						<group name="speaker_specific_alt">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
 							<string name="code_3" value="" />
 						</group>
-						<icon name="portrait_name_summer" value="Icons_portraits_unit_west_german_volksgrenadier_s_portrait" />
+						<icon name="portrait_name_summer" value="Icons_portraits_unit_german_sniper_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
@@ -55,7 +55,7 @@
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
 						<bool name="speaker_highest_priority" value="False" />
-						<icon name="symbol_icon_name" value="Icons_symbols_unit_west_german_volksgrenadiers_symbol" />
+						<icon name="symbol_icon_name" value="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_symbol" />
 						<enum name="ui_style" value="default" />
 						<string name="cover_level_icon_postfix" value="" />
 					</group>
@@ -416,6 +416,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\german\items\pioneer_minesweeper_mp" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\luftwaffe_pzb39" mod="43aa338c512b481b82b19227ece3aa0a" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -738,7 +740,9 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\repair_ability\soviet_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\pioneer_volks_salvage" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
 			</list>
 			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
 		</template_reference>
@@ -1139,7 +1143,7 @@
 					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
 					<list name="construction_items">
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\flak_emplacement" />
+							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\flak_emplacement" mod="43aa338c512b481b82b19227ece3aa0a" />
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">

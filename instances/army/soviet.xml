@@ -166,6 +166,7 @@
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\artillery_152mm" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\soviet\modal_ability\commander_ability\passive_ability\conscript_spotters_passive" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\sector_artillery" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\soviet\modal_ability\dispatch\ot34" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">
