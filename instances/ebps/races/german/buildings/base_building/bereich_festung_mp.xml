@@ -1,0 +1,42 @@
+<instance override_type="merge" description="tier 1 building&#xA;Multiplayer Clone." template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\spawner_ext">
+			<bool name="animated_spawning" value="False" />
+			<float name="animated_spawning_seconds" value="0" />
+			<bool name="must_be_in_supply" value="True" />
+			<float name="reinforce_radius" value="20" />
+			<list name="spawn_items">
+				<group name="spawn_item">
+					<int name="ui_position" value="11" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\grenadier_squad\grenadier_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="False" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="12" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\mortar_team\mortar_team_81mm_mp" />
+					<bool name="spawn_at_map_entry_point" value="False" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="13" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\sniper_squad\sniper_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="False" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="14" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\panzerjaeger\panzerjaeger" mod="43aa338c512b481b82b19227ece3aa0a" />
+					<bool name="spawn_at_map_entry_point" value="False" />
+				</group>
+			</list>
+			<list name="bonus_xp_from_hold_list">
+			</list>
+			<list name="reinforce_requirements">
+			</list>
+			<bool name="spawn_to_hold_try_first" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="1473" />
+</instance>

@@ -40,14 +40,14 @@
 								<bool name="can_be_targeted" value="True" />
 							</group>
 							<group name="attack_info">
-								<float name="target_lead_in_distance" value="15" />
+								<float name="target_lead_in_distance" value="25" />
 								<int name="attacks_per_aircraft" value="1" />
-								<float name="target_lead_out_distance" value="15" />
+								<float name="target_lead_out_distance" value="25" />
 								<float name="delay_between_attack" value="0" />
 								<float name="attack_sway_width" value="0" />
 								<float name="attack_sway_frequency" value="0" />
-								<float name="target_attack_distance" value="225" />
-								<float name="target_attack_time_sec" value="4.25" />
+								<float name="target_attack_distance" value="400" />
+								<float name="target_attack_time_sec" value="20" />
 								<float name="initial_attack_delay" value="0" />
 							</group>
 							<template_reference name="target_info" value="type_ability_target_type\has_all_in_list">
@@ -65,7 +65,7 @@
 							</template_reference>
 							<int name="number_aircraft" value="1" />
 							<bool name="search_attack_target" value="False" />
-							<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad_superiority" />
+							<instance_reference name="aircraft_squad_name" value="sbps\races\west_german\vehicles\planes\stuka_kanonenvogel" mod="43aa338c512b481b82b19227ece3aa0a" />
 							<uniqueid name="id" value="1073743711" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
@@ -103,14 +103,14 @@
 			<float name="command" value="0" />
 			<float name="fuel" value="0" />
 			<float name="manpower" value="0" />
-			<float name="munition" value="110" />
+			<float name="munition" value="180" />
 			<float name="popcap" value="0" />
 		</group>
 		<string name="cursor_ghost_blueprint" value="" />
 		<float name="cursor_ghost_blueprint_angle" value="0" />
 		<bool name="disable_combat" value="True" />
 		<bool name="disable_when_active" value="True" />
-		<float name="duration_time" value="20" />
+		<float name="duration_time" value="30" />
 		<bool name="enable_in_building" value="False" />
 		<bool name="enable_in_vehicle" value="False" />
 		<bool name="engage_combat" value="False" />
@@ -213,7 +213,7 @@
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />
 		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_recon_sweep_attack" />
 		<float name="ui_reticule_radius_min" value="4" />
-		<float name="ui_reticule_radius_max" value="14" />
+		<float name="ui_reticule_radius_max" value="25" />
 		<enum name="pending_ability_out_of_range_behaviour" value="chase" />
 		<enum name="ui_group" value="group_primary" />
 		<string name="ui_targetable_sm_key" value="" />

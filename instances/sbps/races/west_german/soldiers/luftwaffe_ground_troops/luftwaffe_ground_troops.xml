@@ -1143,7 +1143,7 @@
 					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
 					<list name="construction_items">
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\flak_emplacement" mod="43aa338c512b481b82b19227ece3aa0a" />
+							<instance_reference name="ebp" value="" />
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">

@@ -1,0 +1,15 @@
+<instance override_type="merge" description="" template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\pioneer_volks_salvage" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\infiltration_tactics_grenade" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\to_the_last_man_5" mod="43aa338c512b481b82b19227ece3aa0a" />
+			</list>
+			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2664" />
+</instance>

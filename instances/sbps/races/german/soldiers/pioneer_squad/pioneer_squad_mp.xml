@@ -100,7 +100,7 @@
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\bereich_festung_mp" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\bereich_festung_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 							<int name="ui_position" value="11" />
 						</group>
 						<group name="construction_item">

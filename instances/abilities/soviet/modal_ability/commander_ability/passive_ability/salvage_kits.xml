@@ -77,7 +77,7 @@
 			<locstring name="extra_text" value="159" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<locstring name="help_text" value="158" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_commander_cmdr_west_german_thorough_salvage" />
+			<icon name="icon_name" value="ModIcons_43aa338c512b481b82b19227ece3aa0a_salvage_munitions" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="160" mod="43aa338c512b481b82b19227ece3aa0a" />

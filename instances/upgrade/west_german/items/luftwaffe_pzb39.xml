@@ -43,7 +43,7 @@
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\german\anti_tank_weapon\grenadiere_pzb39" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="slot_item" value="slot_item\german\anti_tank_weapon\pzb39" mod="43aa338c512b481b82b19227ece3aa0a" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073743715" />
 			</template_reference>

@@ -2,16 +2,38 @@
 <display:MovieClip xmlns:fx='http://ns.adobe.com/mxml/2009' xmlns:display='flash.display.*'>
 	<fx:Script>
 		<![CDATA[
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/ambush_camo_inactive.png')]
+		public static var ambush_camo_inactive:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/hetzer_camo.png')]
+		public static var hetzer_camo:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/hetzer_camo_disabled.png')]
+		public static var hetzer_camo_disabled:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/hetzer_camo_inactive.png')]
+		public static var hetzer_camo_inactive:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/hhl35.png')]
+		public static var hhl35:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/luftwaffe_ground_troops_icon.png')]
 		public static var luftwaffe_ground_troops_icon:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/luftwaffe_ground_troops_symbol.png')]
 		public static var luftwaffe_ground_troops_symbol:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/ot34_icon.png')]
 		public static var ot34_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/panzerjaeger_detection.png')]
+		public static var panzerjaeger_detection:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/panzerjaeger_icon.png')]
+		public static var panzerjaeger_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/panzerjaeger_symbol.png')]
+		public static var panzerjaeger_symbol:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/pathfinders_camouflage_off.png')]
 		public static var pathfinders_camouflage_off:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/salvage_munitions.png')]
+		public static var salvage_munitions:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/sdkfz_250_speedbuff.png')]
 		public static var sdkfz_250_speedbuff:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/surveillance_operations.png')]
+		public static var surveillance_operations:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/SovietDefense/data/ui/switch_pzb_for_schreck.png')]
+		public static var switch_pzb_for_schreck:Class;
 		]]>
 	</fx:Script>
 </display:MovieClip>

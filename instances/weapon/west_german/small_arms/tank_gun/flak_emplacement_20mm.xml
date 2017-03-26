@@ -7,13 +7,13 @@
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
-				<float name="max" value="0.25" />
-				<float name="min" value="0.25" />
+				<float name="max" value="0.125" />
+				<float name="min" value="0.125" />
 			</group>
 			<float name="post_firing_aim_time" value="4" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.75" />
+				<float name="max" value="0.5" />
 				<float name="min" value="0.5" />
 			</group>
 			<group name="aim_time_multiplier">
@@ -46,9 +46,9 @@
 				<float name="radius" value="1" />
 			</group>
 			<group name="damage">
-				<float name="far" value="1" />
+				<float name="far" value="0.5" />
 				<float name="near" value="1" />
-				<float name="mid" value="1" />
+				<float name="mid" value="0.75" />
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
@@ -57,8 +57,8 @@
 			</group>
 			<group name="distance">
 				<float name="far" value="1" />
-				<float name="near" value="1" />
-				<float name="mid" value="1" />
+				<float name="near" value="0.5" />
+				<float name="mid" value="0.75" />
 			</group>
 			<bool name="has_friendly_fire" value="True" />
 			<bool name="can_harm_shooter" value="False" />
@@ -72,16 +72,16 @@
 				<float name="near" value="0.2" />
 				<float name="mid" value="0.15" />
 			</group>
-			<bool name="damage_all_in_hold" value="False" />
+			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
 				<float name="far" value="25" />
 				<float name="mid" value="25" />
 				<float name="near" value="25" />
 			</template_reference>
 			<group name="building_damage">
-				<float name="near" value="1" />
-				<float name="mid" value="1" />
-				<float name="far" value="1" />
+				<float name="near" value="0.5" />
+				<float name="mid" value="0.5" />
+				<float name="far" value="0.5" />
 			</group>
 			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_no_change" />
 			<enum name="aoe_origin_and_direction" value="hit_position_and_direction" />
@@ -317,7 +317,7 @@
 											<uniqueid name="id" value="1073743728" />
 										</template_reference>
 									</list>
-									<int name="weight" value="2" />
+									<int name="weight" value="10" />
 								</group>
 								<group name="action_choice">
 									<list name="actions">
@@ -327,7 +327,7 @@
 											</template_reference>
 										</template_reference>
 									</list>
-									<int name="weight" value="98" />
+									<int name="weight" value="90" />
 								</group>
 							</list>
 							<uniqueid name="id" value="1073743730" />
@@ -349,12 +349,12 @@
 			</list>
 		</group>
 		<float name="flinch_radius" value="2" />
-		<string name="fx_action_target_name" value="fx_20mm_turret_target" />
+		<string name="fx_action_target_name" value="" />
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />
 		<float name="fx_delay_in_building" value="0" />
 		<string name="fx_munition_name" value="flak_dense_small" />
-		<string name="fx_tracer_name" value="fx_20mm_turret_tracer" />
+		<string name="fx_tracer_name" value="" />
 		<float name="fx_tracer_speed" value="120" />
 		<bool name="fx_use_building_panel_normal" value="True" />
 		<locstring name="help_text" value="0" />
@@ -394,15 +394,15 @@
 			<float name="max" value="40" />
 			<float name="min" value="3" />
 			<group name="distance">
-				<float name="near" value="-1" />
+				<float name="near" value="15" />
 				<float name="far" value="-1" />
-				<float name="mid" value="20" />
+				<float name="mid" value="30" />
 			</group>
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="3.1" />
-				<float name="min" value="2.8" />
+				<float name="max" value="5" />
+				<float name="min" value="5" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />
@@ -410,22 +410,22 @@
 				<float name="mid" value="1" />
 			</group>
 			<group name="frequency">
-				<float name="max" value="8" />
-				<float name="min" value="8" />
+				<float name="max" value="39" />
+				<float name="min" value="39" />
 			</group>
 			<list name="on_reload_actions">
 			</list>
 		</group>
 		<group name="scatter">
-			<float name="angle_scatter" value="7.5" />
-			<bool name="burst_pattern_enable" value="True" />
-			<float name="delay_bracket_change_chance" value="0.2" />
-			<float name="distance_bracket_count_air" value="5" />
-			<float name="distance_bracket_count_ground" value="15" />
-			<float name="distance_scatter_max" value="4.15" />
+			<float name="angle_scatter" value="5" />
+			<bool name="burst_pattern_enable" value="False" />
+			<float name="delay_bracket_change_chance" value="0" />
+			<float name="distance_bracket_count_air" value="0" />
+			<float name="distance_bracket_count_ground" value="1" />
+			<float name="distance_scatter_max" value="4" />
 			<float name="distance_scatter_obj_hit_min" value="10" />
 			<float name="distance_scatter_offset" value="0.2" />
-			<float name="distance_scatter_ratio" value="1" />
+			<float name="distance_scatter_ratio" value="0.125" />
 			<float name="fow_angle_multiplier" value="1.25" />
 			<float name="fow_distance_multiplier" value="1.25" />
 			<float name="max_tilt_angle" value="5" />
@@ -487,9 +487,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="near" value="20" />
-			<float name="far" value="20" />
-			<float name="mid" value="20" />
+			<float name="near" value="25" />
+			<float name="far" value="25" />
+			<float name="mid" value="25" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

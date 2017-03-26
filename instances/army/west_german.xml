@@ -13,7 +13,7 @@
 		</group>
 		<group name="casualties">
 			<int name="number_of_casualties_until_spawn" value="4" />
-			<instance_reference name="squad_to_spawn" value="sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_squad_mp" />
+			<instance_reference name="squad_to_spawn" value="sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 		</group>
 		<group name="income_cap">
 			<float name="action" value="20" />
@@ -112,7 +112,6 @@
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\command_panther" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\terror_officer" />
 			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\valiant_assault" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\assault_artillery" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\radio_silence" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\infiltration_tactics_unlock" />
@@ -137,8 +136,12 @@
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\king_tiger_dispatch" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock_okw" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\jagdpanzer_hetzer_dispatch" mod="43aa338c512b481b82b19227ece3aa0a" />
-			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\luftwaffe_ground_troops" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\kanonenvogel_strafe" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\scorched_earth" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\early_warning_flares" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\for_the_fatherland" mod="43aa338c512b481b82b19227ece3aa0a" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\goliath_dispatch" />
+			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\heavy_fortifications" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">
@@ -232,14 +235,13 @@
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\heavy_armor_support_mp" />
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\infantry_support_mp" />
 				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\light_armor_support_mp" />
-				<instance_reference name="base_building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 			</list>
 			<list name="unlocking_upgrade_list">
 			</list>
 			<group name="builder_squads">
 				<instance_reference name="base_builder_squad" value="sbps\races\west_german\vehicles\sws_halftrack_squad\sws_halftrack_squad_mp" />
-				<instance_reference name="obs_post_builder_squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
-				<instance_reference name="defense_builder_squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
+				<instance_reference name="obs_post_builder_squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="defense_builder_squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 			</group>
 		</group>
 		<list name="team_size_point_resource_multiplier">
@@ -287,10 +289,10 @@
 		<list name="starting_buildings">
 			<group name="starting_building">
 				<string name="key" value="default" />
-				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" />
 				<list name="starting_squads">
 					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
+						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<bool name="check_requirements" value="False" />
 					</group>
 				</list>
@@ -299,10 +301,10 @@
 			</group>
 			<group name="starting_building">
 				<string name="key" value="default_mp" />
-				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
+				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp" />
 				<list name="starting_squads">
 					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
+						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<bool name="check_requirements" value="False" />
 					</group>
 				</list>
@@ -358,7 +360,7 @@
 				<instance_reference name="building" value="ebps\races\west_german\buildings\base_building\west_german_base_stamper" />
 				<list name="starting_squads">
 					<group name="starting_squad">
-						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" />
+						<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 						<bool name="check_requirements" value="False" />
 					</group>
 				</list>

@@ -1,0 +1,12 @@
+model =
+{
+	"..\\..\\..\\Common\\newMotionTree.abp",
+
+	"fallschirmjaeger",
+	
+	-- weapons/gear
+	"..\\..\\..\\aef\\props\\parachute\\parachute",
+	"..\\..\\weapons\\rifle_fg42\\rifle_fg42",
+	"..\\..\\weapons\\west_german_stielgranate\\west_german_stielgranate",
+	"..\\..\\..\\soviet\\weapons\\grenade_rpg6\\grenade_rpg6",
+}

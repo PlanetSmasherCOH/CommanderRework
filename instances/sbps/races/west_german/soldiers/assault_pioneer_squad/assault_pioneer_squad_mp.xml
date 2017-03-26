@@ -1,0 +1,20 @@
+<instance override_type="merge" description="pioneer squad&#xA;Multiplayer Clone." template="sbps">
+	<list name="extensions">
+		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\repair_ability\west_german_repair_ability_mp" />
+				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\pioneer_volks_salvage" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\pioneer_stun_grenade_mp" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\sp\refuel_tank_wg_sp" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\minesweeper_deploy_mp" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\minesweeper_put_away_mp" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\to_the_last_man_4" mod="43aa338c512b481b82b19227ece3aa0a" />
+			</list>
+			<bool name="allow_targeted_abilities_whilst_moving" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="2656" />
+</instance>

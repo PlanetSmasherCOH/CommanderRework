@@ -158,7 +158,7 @@
 			<locstring name="extra_text" value="396" mod="43aa338c512b481b82b19227ece3aa0a" />
 			<locstring name="help_text" value="11055273" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_units_unit_west_german_fallschirmjager_from_building" />
+			<icon name="icon_name" value="Icons_units_unit_west_german_fallschirmjager" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="11055272" />
@@ -199,7 +199,7 @@
 				<enum name="reason" value="usage" />
 				<group name="free_pop">
 					<float name="medic" value="0" />
-					<float name="personnel" value="9" />
+					<float name="personnel" value="10" />
 					<float name="vehicle" value="0" />
 				</group>
 			</template_reference>
@@ -211,7 +211,7 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_paradrop" />
 		<float name="ui_reticule_radius_min" value="5" />
-		<float name="ui_reticule_radius_max" value="15" />
+		<float name="ui_reticule_radius_max" value="7.5" />
 		<enum name="pending_ability_out_of_range_behaviour" value="chase" />
 		<enum name="ui_group" value="group_primary" />
 		<string name="ui_targetable_sm_key" value="" />

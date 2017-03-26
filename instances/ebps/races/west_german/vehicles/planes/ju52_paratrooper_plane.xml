@@ -28,7 +28,7 @@
 								<float name="drop_zone_centre_scatter" value="0" />
 								<instance_reference name="entity_to_spawn" value="" />
 								<float name="max_squad_entity_count" value="0" />
-								<instance_reference name="squad_to_spawn" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_squad_mp" />
+								<instance_reference name="squad_to_spawn" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_squad_mp" mod="43aa338c512b481b82b19227ece3aa0a" />
 								<int name="number_of_entities_to_spawn" value="1" />
 								<float name="entity_scatter" value="1" />
 								<float name="entity_height_scatter" value="15" />

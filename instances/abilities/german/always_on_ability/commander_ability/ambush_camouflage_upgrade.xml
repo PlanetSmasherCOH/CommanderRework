@@ -95,7 +95,7 @@
 							<template_reference name="ui_info" value="tables\ui_info">
 								<locstring name="screen_name" value="11025915" />
 								<locstring name="help_text" value="260" mod="43aa338c512b481b82b19227ece3aa0a" />
-								<icon name="icon_name" value="Icons_abilities_ability_german_ambush_camo_off" />
+								<icon name="icon_name" value="ModIcons_43aa338c512b481b82b19227ece3aa0a_ambush_camo_inactive" />
 								<string name="hotkey_name" value="" />
 							</template_reference>
 							<uniqueid name="id" value="1073742917" />

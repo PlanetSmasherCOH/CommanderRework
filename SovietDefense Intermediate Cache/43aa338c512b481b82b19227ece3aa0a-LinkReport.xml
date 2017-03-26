@@ -1,5 +1,15 @@
 <report>
   <scripts>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_switch_pzb_for_schreck.as" mod="1487452613588" size="348" optimizedsize="315">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_switch_pzb_for_schreck" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_hhl35.as" mod="1487466252013" size="331" optimizedsize="298">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hhl35" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexAsset)" mod="1451275290000" size="275" optimizedsize="98">
       <def id="mx.core:IFlexAsset" />
       <pre id="Object" />
@@ -21,24 +31,19 @@
       <dep id="mx.core:mx_internal" />
       <dep id="mx.core:IAssetLayoutFeatures" />
     </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexDisplayObject)" mod="1451275290000" size="6008" optimizedsize="1339">
-      <def id="mx.core:IFlexDisplayObject" />
-      <pre id="flash.events:IEventDispatcher" />
-      <pre id="flash.display:IBitmapDrawable" />
-      <pre id="Object" />
-      <dep id="flash.display:DisplayObject" />
-      <dep id="AS3" />
-      <dep id="flash.display:DisplayObjectContainer" />
-      <dep id="flash.geom:Point" />
-      <dep id="flash.display:Stage" />
-      <dep id="flash.display:LoaderInfo" />
-      <dep id="flash.geom:Transform" />
-      <dep id="flash.geom:Rectangle" />
-      <dep id="flash.accessibility:AccessibilityProperties" />
-    </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:ILayoutDirectionElement)" mod="1451275290000" size="752" optimizedsize="239">
       <def id="mx.core:ILayoutDirectionElement" />
       <pre id="Object" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_symbol.as" mod="1487463389870" size="345" optimizedsize="312">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_symbol" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo.as" mod="1487601074552" size="337" optimizedsize="304">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo" />
+      <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:FlexBitmap)" mod="1451275290000" size="895" optimizedsize="534">
@@ -60,25 +65,36 @@
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
-    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off.as" mod="1478224196212" size="352" optimizedsize="319">
-      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off" />
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_icon.as" mod="1487463268451" size="343" optimizedsize="310">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_icon" />
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IRepeaterClient)" mod="1451275290000" size="1149" optimizedsize="321">
-      <def id="mx.core:IRepeaterClient" />
-      <pre id="Object" />
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_inactive.as" mod="1487601119275" size="346" optimizedsize="313">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_inactive" />
+      <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
-    <script name="E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\ModIcons_43aa338c512b481b82b19227ece3aa0a.mxml" mod="1486671946765" size="883" optimizedsize="850">
+    <script name="E:\Spiele\CoH2-Mods\SovietDefense\SovietDefense Intermediate Cache\ModIcons_43aa338c512b481b82b19227ece3aa0a.mxml" mod="1487612755156" size="1980" optimizedsize="1913">
       <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a" />
       <pre id="flash.display:MovieClip" />
-      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_ot34_icon" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_surveillance_operations" />
       <dep id="AS3" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_detection" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_salvage_munitions" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_ambush_camo_inactive" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_switch_pzb_for_schreck" />
       <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_icon" />
       <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_ot34_icon" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_icon" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_symbol" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_disabled" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_inactive" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hhl35" />
       <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_symbol" />
       <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off" />
+      <dep id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IAssetLayoutFeatures)" mod="1451275290000" size="4485" optimizedsize="867">
       <def id="mx.core:IAssetLayoutFeatures" />
@@ -87,13 +103,9 @@
       <dep id="flash.geom:Matrix" />
       <dep id="flash.geom:Matrix3D" />
     </script>
-    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff.as" mod="1478014501973" size="345" optimizedsize="312">
-      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff" />
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_disabled.as" mod="1487601226392" size="346" optimizedsize="313">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_hetzer_camo_disabled" />
       <pre id="mx.core:BitmapAsset" />
-      <dep id="AS3" />
-    </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:mx_internal)" mod="1451275290000" size="216" optimizedsize="109">
-      <def id="mx.core:mx_internal" />
       <dep id="AS3" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.utils:NameUtil)" mod="1451275290000" size="1705" optimizedsize="1093">
@@ -105,6 +117,60 @@
       <dep id="mx.core:IRepeaterClient" />
       <dep id="SecurityError" />
       <dep id="mx.core:mx_internal" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_detection.as" mod="1487467098466" size="348" optimizedsize="315">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_panzerjaeger_detection" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_salvage_munitions.as" mod="1487463842492" size="343" optimizedsize="310">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_salvage_munitions" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexDisplayObject)" mod="1451275290000" size="6008" optimizedsize="1339">
+      <def id="mx.core:IFlexDisplayObject" />
+      <pre id="flash.events:IEventDispatcher" />
+      <pre id="flash.display:IBitmapDrawable" />
+      <pre id="Object" />
+      <dep id="flash.display:DisplayObject" />
+      <dep id="AS3" />
+      <dep id="flash.display:DisplayObjectContainer" />
+      <dep id="flash.geom:Point" />
+      <dep id="flash.display:Stage" />
+      <dep id="flash.display:LoaderInfo" />
+      <dep id="flash.geom:Transform" />
+      <dep id="flash.geom:Rectangle" />
+      <dep id="flash.accessibility:AccessibilityProperties" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_ambush_camo_inactive.as" mod="1487467954836" size="346" optimizedsize="313">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_ambush_camo_inactive" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off.as" mod="1478224196212" size="352" optimizedsize="319">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_pathfinders_camouflage_off" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IRepeaterClient)" mod="1451275290000" size="1149" optimizedsize="321">
+      <def id="mx.core:IRepeaterClient" />
+      <pre id="Object" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_surveillance_operations.as" mod="1487180893386" size="349" optimizedsize="316">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_surveillance_operations" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff.as" mod="1478014501973" size="345" optimizedsize="312">
+      <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_sdkfz_250_speedbuff" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:mx_internal)" mod="1451275290000" size="216" optimizedsize="109">
+      <def id="mx.core:mx_internal" />
+      <dep id="AS3" />
     </script>
     <script name="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_icon.as" mod="1486664404735" size="354" optimizedsize="321">
       <def id="ModIcons_43aa338c512b481b82b19227ece3aa0a_luftwaffe_ground_troops_icon" />
